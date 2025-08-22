@@ -1,28 +1,39 @@
-# Hi there, I'm Nehal Elmasry 👋
+<h2>👋 HI I Am Nehal Elmaasry</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## About Me
-I'm a Junior Data Analyst with over 17 years of experience in handling technical documents, formatting reports, and analyzing structured data during my career at Telecom Egypt.  
-Currently, I work as a freelance Data Analyst and Data Entry Specialist, helping businesses transform raw data into actionable insights.
+<p><em>Junior Data Analyst | Data Entry Specialist | Former Telecom Engineer</em></p>
 
-## Skills
-- **Data Analysis & Cleaning**: Excel, Power BI, SQL
-- **Data Visualization & Reporting**: Power BI, PowerPoint
-- **Documentation & Storytelling**: Creating clear, structured, and engaging reports
-- **Languages**: Arabic (Native), English (Excellent reading/writing, good speaking)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)
 
-## Courses & Certifications
-- IBM Data Analysis
-- IBM Excel
-- SQL - Creativa
+### About Me
 
-## What I Do
-- Clean and prepare datasets for analysis
-- Design professional Excel dashboards and reports
-- Convert PDF documents into structured Word/Excel formats
-- Support data-driven decision-making for businesses
+- 🎓 **Telecommunications Engineer** with 17+ years of experience in technical documentation and reporting at Telecom Egypt.  
+- 📊 Currently working as a **freelance Data Analyst**, leveraging **Excel, Power BI, and SQL** for data cleaning, analysis, and visualization.  
+- 🛠 Skilled in creating **automated reports, dashboards, and templates** to support business decision-making.  
+- 🌍 Open to **remote and freelance projects** globally (especially in Saudi Arabia, UAE, and Qatar).  
 
-## Get in Touch
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Email**: [Your Email Address]
+---
 
-> Passionate about turning data into meaningful stories.
+### Technical Skills
+
+- **Data Analysis:** Excel (Advanced formulas, Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH), Power BI, SQL  
+- **Data Cleaning & Processing:** Removing duplicates, handling missing data, standardizing formats  
+- **Visualization:** Interactive dashboards, storytelling with data  
+- **Documentation:** Creating professional templates, forms, and reports  
+
+---
+
+### Current Focus
+
+Enhancing my expertise in **Business Intelligence & Data Storytelling** while supporting organizations in making data-driven decisions.
+
+---
+
+### Fun Fact
+
+I can transform raw, messy datasets into **clear, actionable insights**—and I enjoy every step of the process! 😊
+
+---
+
+*Last Updated: August 2025*
